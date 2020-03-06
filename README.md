@@ -1,2 +1,2 @@
 # tindev
-Tinder para desenvolvedores feito durante a Semana OmniStack 8.0
+Tinder for developers created during the week OmniStack 8.0
